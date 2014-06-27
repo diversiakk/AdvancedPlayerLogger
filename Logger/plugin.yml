@@ -1,0 +1,7 @@
+name: AdvancedPlayerLogger
+main: pl.marvex.logger.LoggerPlugin
+version: 1.0
+author: MarVex
+commands:
+  apl:
+    description: fk
